@@ -1,0 +1,42 @@
+@model Equipe
+
+<link rel="stylesheet" href="~/css/Equipe.css">
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<main>
+    <section class="container-grid cadastro-equipes">
+    <span>@TempData.Peek("Message")</span>
+        @if (ViewBag.UserName == null)
+        {
+            <h1>Usuario nao Logado!</h1>
+            <a class="navbar-brand" asp-area="" asp-controller="Login" asp-action="Index">
+                Logar
+            </a>
+        }
+        else
+        {
+            <form class="frm-cad-equipe" method="post" action='@Url.Action("Atualizar")' enctype="multipart/form-data">
+                <div class="cadequipe-titulo">
+                    <h1>Edicao de Equipes</h1>
+                    <hr>
+                </div>
+
+                <input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
+
+                <input class="campo-entrada" type="text" name="Nome" value="@ViewBag.Equipe.Nome">
+
+                <label class="foto" for="foto-file">
+                    Nenhuma imagem selecionada
+                    <input type="file" id="foto-file" name="Imagem">
+                </label>
+
+                <button type="submit">Atualizar</button>
+
+            </form>
+
+        }
+    </section>
+</main>
