@@ -12,6 +12,8 @@ Em um contexto urbano dinâmico, a necessidade por soluções na área da saúde
 
 A parte visual do projeto foi desenvolvida de forma individual, permitindo que cada membro da equipe expressasse sua criatividade e estilo. No entanto, a implementação das funcionalidades do aplicativo foi realizada em duplas, promovendo um trabalho colaborativo e um aprendizado prático.
 
+Meu parceiro neste projeto foi [Richard Passarelli](https://github.com/RichardRichk), que contribuiu significativamente para o desenvolvimento das funcionalidades.
+
 
 ## Funcionalidades
 
