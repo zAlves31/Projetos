@@ -1,0 +1,53 @@
+{
+  "locais": [
+    {
+      "id": "aec64d2a-427a-4665-9b94-3ba170ad3618",
+      "nome": "Sala 5"
+    },
+    {
+      "id": "9b2dfa94-6be7-4ce3-8a14-b9742c0f6b19",
+      "nome": "Sala 21"
+    }
+  ],
+  "ativos": [
+    {
+      "id": "91611a90-8e73-4d13-82e0-24c4c0fdefb2",
+      "numero": "123456",
+      "nome": "Computador",
+      "local": "9b2dfa94-6be7-4ce3-8a14-b9742c0f6b19",
+      "usuario_id": "e536c9cd-52c5-4a5c-918a-2ef02dd8aa3d",
+      "dataRegistro": "13/09/2024, 08:30:05",
+      "status": true,
+      "dataAtualizacao": "13/09/2024, 08:30:26",
+      "usuarioAlteracao": "e536c9cd-52c5-4a5c-918a-2ef02dd8aa3d"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "e536c9cd-52c5-4a5c-918a-2ef02dd8aa3d",
+      "login": "zalves31",
+      "imagem": "https://avatars.githubusercontent.com/u/125360930?v=4",
+      "ultimoAcesso": "2024-09-11T13:54:59.644Z"
+    },
+    {
+      "id": "5ef1fe8c-67a6-4953-ae3f-a568a5532b5a",
+      "login": "zalves31",
+      "imagem": "https://avatars.githubusercontent.com/u/125360930?v=4"
+    },
+    {
+      "id": "1ca1c4be-f6fc-4a1f-a505-fd3a706531a6",
+      "login": "santos",
+      "imagem": "https://avatars.githubusercontent.com/u/311578?v=4"
+    },
+    {
+      "id": "38cab5b6-ce44-469d-9342-c3a05b63149c",
+      "login": "lucas",
+      "imagem": "https://avatars.githubusercontent.com/u/1467716?v=4"
+    },
+    {
+      "id": "3e456d2a-0f36-49c7-b43a-d97bc75c9ef4",
+      "login": "s",
+      "imagem": "https://avatars.githubusercontent.com/u/1969638?v=4"
+    }
+  ]
+}

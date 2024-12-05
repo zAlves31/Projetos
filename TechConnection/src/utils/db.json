@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "0ebe",
+      "name": "André Brizido Basilio",
+      "username": "brizidoandre",
+      "password": "senhas",
+      "created_at": 1727873667199,
+      "user_image_path": "https://avatars.githubusercontent.com/u/125273578?v=4"
+    },
+    {
+      "id": "10c2",
+      "name": null,
+      "username": "marqzzs",
+      "password": "Madalena@1",
+      "created_at": 1727875276736,
+      "user_image_path": "https://avatars.githubusercontent.com/u/125361515?v=4"
+    },
+    {
+      "id": "b898",
+      "name": "Joao Victor Alves Bautista",
+      "username": "zalves31",
+      "password": "senha",
+      "created_at": 1728299820548,
+      "user_image_path": "https://avatars.githubusercontent.com/u/125360930?v=4"
+    },
+    {
+      "id": "78fc",
+      "name": null,
+      "username": "rubensmoura33",
+      "password": "12345",
+      "created_at": 1728386975003,
+      "user_image_path": "https://avatars.githubusercontent.com/u/125362626?v=4"
+    }
+  ],
+  "posts": [],
+  "comments": [
+    {},
+    {
+      "id": "143f",
+      "comentario": "sfasdf",
+      "created_at": 1728529562809
+    }
+  ],
+  "replies": [],
+  "saved": [],
+  "likes": [],
+  "followers": []
+}
